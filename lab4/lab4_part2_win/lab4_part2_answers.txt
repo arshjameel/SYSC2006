@@ -1,0 +1,11 @@
+1. variable1 is a global variable.
+
+2. variable1 is a local variable in lab4test.c and a global variable in main.c. therefore no, they are not the same.
+
+3. No, it does not modify the value of variable1 inside main.c.
+
+4. there are two distinct variables in main.c: variable1 (global) and i (local).
+
+5. there is only one distinct variable1 in main.c and it is global.
+
+6. No, the variable in test1 is not the same as the variable in test2 as they are both local variables.
